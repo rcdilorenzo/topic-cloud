@@ -1,0 +1,3 @@
+[run]
+source = topic_cloud
+omit = topic_cloud/test*

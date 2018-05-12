@@ -4,7 +4,10 @@
   "private": true,
   "proxy": "http://localhost:5000",
   "dependencies": {
+    "d3": "^5.3.0",
+    "d3-cloud": "^1.2.5",
     "history": "^4.7.2",
+    "ramda": "^0.25.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
     "react-redux": "^5.0.7",
